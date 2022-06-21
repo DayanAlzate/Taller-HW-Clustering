@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 21 08:40:04 2022
-
-@author: dayan
+@author: dayan alzate hernandez
+Correo Institucional: dayan.alzate@upb.edu.co
+Id:000502226
 """
 
 # Importamos las librerias que nos permitiran hacerle el tratamiento a los datos
